@@ -1,4 +1,5 @@
 spacy==2.3.2
-textacy==0.10.1
+#textacy==0.10.1
+textacy
 fasttext
 
